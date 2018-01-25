@@ -1,0 +1,11 @@
+p.styledFont {
+	color:green;
+    font-family: 'Roboto Slab', serif;
+}
+img.styledImage{
+	border-width: medium;
+	border-color:green;
+	border-style: solid;
+    padding: 15px;
+    
+}
